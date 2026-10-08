@@ -29,9 +29,9 @@ This project analyzes food delivery sales data using SQL and Power BI to identif
 - Indian cuisine generates the highest revenue and order volume.
 - Bangalore contributes the highest number of Indian cuisine orders.
 
-![Executive Overview](/dashboard_screenshot/1_Executive_Overview.png)
+![Executive Overview](/screenshots/1_Executive_Overview.png)
 
-![Executive Overview(tooltip_city)](/dashboard_screenshot/Tooltip_city.png)
+![Executive Overview(tooltip_city)](/screenshots/Tooltip_city.png)
 
 ### Page 2. Customer & Sales Analysis
 
@@ -40,7 +40,7 @@ This project analyzes food delivery sales data using SQL and Power BI to identif
 - Fine Dining also receives the highest order volume.
 - The business is heavily dependent on the Fine Dining category.
 
-![Customer & Sales Analysis](/dashboard_screenshot/2_Customer&sales.png)
+![Customer & Sales Analysis](/screenshots/2_Customer&sales.png)
 
 ### Page 3. Business Performance
 
@@ -49,7 +49,7 @@ This project analyzes food delivery sales data using SQL and Power BI to identif
 - Festival periods contribute approximately 4.33% of total revenue.
 - Promotions contribute approximately 13.04% of total revenue.
 
-![Business Performance](/dashboard_screenshot/3_business_performance.png)
+![Business Performance](/screenshots/3_business_performance.png)
 
 ### Page 4. Platform Revenue Analysis
 
@@ -58,7 +58,7 @@ This project analyzes food delivery sales data using SQL and Power BI to identif
 - Packaging fees contribute a relatively small share of platform revenue.
 - 24x7 restaurants contribute approximately 10% of total revenue.
 
-![Platform Revenue Analysis](/dashboard_screenshot/4_Platform_revenue.png)
+![Platform Revenue Analysis](/screenshots/4_Platform_revenue.png)
 
 ## Conclusion
 
